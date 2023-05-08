@@ -1,1 +1,2 @@
 This second index file in test branch.
+Added new line after applying git reset command.
